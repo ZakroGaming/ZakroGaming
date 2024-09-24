@@ -1,5 +1,6 @@
 # 💫 About Me:
-I´m currently learning web application development
+Hi,
+I'm a 22-year-old guy who loves programming. I've worked on setting up and coding servers for Minecraft and FiveM. I'm currently studying web application development.
 
 
 ## 🌐 Socials:
